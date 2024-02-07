@@ -14,7 +14,6 @@ while True:
 
     if len(entrada) > 1:
         print('Digite uma opção válida')
-        continue
 
     if entrada == 'i':
         os.system('cls')
